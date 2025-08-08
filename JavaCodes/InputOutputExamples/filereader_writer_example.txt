@@ -1,0 +1,2 @@
+This is a simple FileWriter example.
+Writing to file character by character.
